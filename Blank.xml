@@ -5,10 +5,10 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Sample Document Title</title>
+				<title>はじめてのドキュメント</title>
 			</titleStmt>
 			<publicationStmt>
-				<p/>
+				<p>出版に関する情報</p>
 			</publicationStmt>
 			<sourceDesc sameAs="http://www.cwrc.ca">
 				<p>Created from original research by members of CWRC/CSÉC unless
@@ -19,7 +19,7 @@
 	<text>
 		<body>
 			<div>
-				<head>Replace with your title.</head>
+				<head>ここにタイトルを入れる</head>
 				<p><note type="citation">Replace</note> with your <rs>text</rs>.<lb/><choice><sic>こ</sic><corr>や</corr></choice>んにちわ。</p><p>私の名前<seg type="keyword"><term>名前</term></seg>はあいうです。は<persName>中村覚</persName>です。</p><p><persName>田中芳雄</persName>です。</p><p><date when="1988-08-08">1988年8月8日</date>生まれ<note type="researchNote">東京生まれです。</note>です。</p><p><orgName cert="high">株式会社</orgName></p></div>
 		</body>
 	</text>
