@@ -20,7 +20,7 @@
 		<body>
 			<div>
 				<head>Replace with your title.</head>
-				<p>Replace with your text.</p><p>こんにちわ。</p><p>私の名前はあいうです。は<persName>中村覚</persName>です。</p><p><persName>田中芳雄</persName>です。</p></div>
+				<p><note type="citation">Replace</note> with your <rs>text</rs>.<lb/><choice><sic>こ</sic><corr>や</corr></choice>んにちわ。</p><p>私の名前<seg type="keyword"><term>名前</term></seg>はあいうです。は<persName>中村覚</persName>です。</p><p><persName>田中芳雄</persName>です。</p><p><date when="1988-08-08">1988年8月8日</date>生まれ<note type="researchNote">東京生まれです。</note>です。</p><p><orgName cert="high">株式会社</orgName></p></div>
 		</body>
 	</text>
 </TEI>
