@@ -17,7 +17,7 @@
 		<body>
 			<div>
 				<head>Replace with your title.</head>
-				<p>Replace with your text.</p><p>こんにちわ。</p></div>
+				<p>Replace with your text.</p><p>こんにちわ。</p><p>私の名前は<persName>中村覚</persName>です。</p></div>
 		</body>
 	</text>
 </TEI>
